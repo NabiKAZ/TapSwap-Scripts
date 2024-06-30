@@ -1,5 +1,10 @@
 // Programmer: @NabiKAZ (https://twitter.com/NabiKAZ)
 // TapSwap Telegram game automatic clicker!
+// First, run the game on the computer by the method I said here: https://github.com/NabiKAZ/TapSwap-Scripts?tab=readme-ov-file#1-run-on-computer
+// Then copy and paste the following code in your browser's console tab (press F12). The magic will be started!
+// To stop, write this: "clearInterval(i);"
+// Caution: You are responsible for possible risks such as banning.
+// The game link: https://t.me/tapswap_mirror_2_bot?start=r_101554083
 
 var delay = 50;
 var i = setInterval(() => {
